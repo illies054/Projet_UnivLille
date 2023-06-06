@@ -1,1 +1,0 @@
-enum TYPE{JOUEUR,IA}
