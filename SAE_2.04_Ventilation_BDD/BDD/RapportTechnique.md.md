@@ -208,11 +208,5 @@ Tout D'abord pour connaitre les information sur la taille en octet des tables on
 3.  Taille en octet de la somme des tables créées 
 4.  Taille en octet de la somme des fichiers exportés
 
-
-#### Exercice 5 : Requêtage : 
-
- 
-	
-
-	
+ 	
  
