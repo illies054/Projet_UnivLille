@@ -2,11 +2,11 @@
 
 **Sae 1.04** 
 
-**Banque![](img\Aspose.Words.98aca53c-d4c4-43d2-97df-b64b3eca2065.001.png)**
+**Banque![](img/Aspose.Words.98aca53c-d4c4-43d2-97df-b64b3eca2065.001.png)**
 
 **Douhab Illies & Soufflet Quentin   GROUPE : E ![](img\Aspose.Words.98aca53c-d4c4-43d2-97df-b64b3eca2065.002.png)**
 
-**MCD (PowerAMC) : ![](img\Aspose.Words.98aca53c-d4c4-43d2-97df-b64b3eca2065.003.png)**
+**MCD (PowerAMC) : ![](img/Aspose.Words.98aca53c-d4c4-43d2-97df-b64b3eca2065.003.png)**
 
 **Base De Données**  
 
